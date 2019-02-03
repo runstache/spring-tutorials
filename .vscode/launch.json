@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - SpringbootTutorialApplication",
+      "request": "launch",
+      "mainClass": "com.lswebworld.springboottutorial.SpringbootTutorialApplication",
+      "projectName": "springboot-tutorial"
+    }
+  ]
+}
